@@ -1,21 +1,14 @@
-# Implementation of Dependency
+# Implementation of Dependency in Design Patterns
 
-This repository contains an implementation of dependency management for software projects.
+This repository explores the implementation of dependency within the context of design patterns.
 
 ## Introduction
 
-Dependency management is a crucial aspect of software development, ensuring that projects can properly utilize external libraries, frameworks, and modules. This project provides a simple yet effective implementation of dependency management to streamline the process for software projects.
-
-## Features
-
-- **Dependency Resolution**: Automatically resolves dependencies based on project requirements.
-- **Version Management**: Manages different versions of dependencies to ensure compatibility and stability.
-- **Easy Integration**: Simple setup process for integrating dependency management into software projects.
-- **Customization**: Allows users to configure dependency resolution strategies and repository sources.
+In software engineering, design patterns are widely used to solve common problems in software development. However, managing dependencies between different components or classes is crucial for effectively implementing these patterns. This project aims to provide insights and examples on how to manage dependencies while implementing various design patterns.
 
 ## Installation
 
-To use this tool, follow these steps:
+To explore the implementation of dependency management in design patterns, follow these steps:
 
 1. Clone the repository:
 
